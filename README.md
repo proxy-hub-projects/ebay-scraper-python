@@ -8,3 +8,7 @@ pip3 install -r requirments.txt
 3: Now run the command:
 
 python3 scraper.py
+
+
+===========
+Note: Make sure to edit the proxy dictionary with your proxy server.
